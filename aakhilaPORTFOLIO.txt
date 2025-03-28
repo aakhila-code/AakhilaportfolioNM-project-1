@@ -11,7 +11,7 @@
         }
 
         header {
-            background-color: #941919;
+            background-color: #e90fd3;
             color: #fff;
             text-align: center;
             padding: 2rem 0;
@@ -95,8 +95,8 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>AAKHILA FATHIMA J</h1>
+            <img src="aakhila pp.jpeg" alt="Your Profile Picture" class="profile-picture">
+            <h1>AAKHILA FATHIMA</h1>
             <p>UI/UX DESIGNER</p>
         </div>
     </header>
@@ -115,7 +115,7 @@
     <section id="about">
         <div class="section-content">
             <h2>About Me</h2>
-            <p>I'm a <b>UI/UX designer</b> Creative and detail-oriented UI/UX Designer with expertise in creating user-centered designs. Skilled in wireframing, prototyping, and conducting user research to deliver intuitive and visually appealing interfaces. Passionate about optimizing user experience through design solutions that balance aesthetics and functionality.</p>
+            <p>I'm a <b>UI/UX Designer</b> Creative and user-focused UI/UX Designer with a keen eye for detail and a passion for crafting intuitive digital experiences. Skilled in     wireframing, prototyping, and user research to enhance usability. Proficient in Figma, Adobe XD, and design thinking methodologies to create seamless and visually compelling interfaces. aspiring ui ux designer who is curious to keep learning also has experience of 3 month duration of internships.looking forward to learn grow and connect </p>
 
         </div>
     </section>
@@ -123,27 +123,29 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>Madras university
-               St.joseph's college(arts and science)</p>
+            <ul>
+                <li>Sana model school-10th and 12th grade passed out with 70%</li>
+                <li>Madras university</li> 
+                <li>St.josephs college(arts and science)- Bachelor of computer applications - 70%</li>
+            </ul>
             
             
-        </div>
+         </div>
     </section>
 
     <section id="skills">
         <div class="section-content">
             <h2>Skills</h2>
             <ul>
-                <li>figma</li>
-                <li>adobe photoshop</li>
-                <li>adobe illustrator</li>
-                <li>wireframing</li>
-                <li>prototyping</li>
-                <li>user interface</li>
-                <li>user experience</li>
-                <li>user reasearch</li>
-                <li>html</li>
-                <li>css</li>
+                <li>Figma</li>
+                <li>Adobe photoshop</li>
+                <li>Wireframing</li>
+                <li>Prototyping</li>
+                <li>User interface</li>
+                <li>User research</li>
+                <li>Adobe illustrator</li>
+                <li>HTML</li>
+                <li>CSS</li>
             </ul>
         </div>
     </section>
@@ -153,8 +155,7 @@
             <h2>Projects</h2>
             <ul>
                 <li><a href="#">Event management website</a></li>
-                <li><a href="#">Cerope: AI fashion consultancy website</a></li>
-                <li><a href="#">IBM chatbot</a></li>
+                <li><a href="#">Cerope-AI fashion consultancy website</a></li>
             </ul>
         </div>
     </section>
@@ -164,14 +165,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="" target="_blank" class="download-button">Download CV</a>
+            <a href="aakhilaresume25.pdf""" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
     </section>
 
     <footer>
-        <p>&copy; 2025 Aakhila fathima J</p>
+        <p>&copy; AAKHILA FATHIMA</p>
     </footer>
 
     <script>
